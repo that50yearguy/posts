@@ -1,8 +1,3 @@
-Here’s a clean, copy-and-paste **Privacy Policy for a Facebook Page**, written in plain language, suitable for small businesses, creators, or service providers.
-If you want it customized with your business name (like *Dannelly Solutions Inc.*), just tell me.
-
----
-
 # **Privacy Policy**
 
 **Last updated: [Insert Date]**
